@@ -15,8 +15,8 @@
     📚 I’m currently learning Full Stack Development
     <br>
     📫 How to reach me: 
-    <code><img height="25" src="https://raw.githubusercontent.com/PrinceCorwin/Useful-tech-icons/main/images/linkedin.png" alt="LinkedIn" title="LinkedIn" /></code>
-    <code> <a href="mailto: ozanayrikan@hotmail.com"><img href="mailto: ozanayrikan@hotmail.com" height="25" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Mail" title="Mail" /></a></code>
+    <code><a href="https://www.linkedin.com/in/ozanayrikan/"><img height="25" src="https://raw.githubusercontent.com/PrinceCorwin/Useful-tech-icons/main/images/linkedin.png" alt="LinkedIn" title="LinkedIn" /></a></code>
+    <code><a href="mailto: ozanayrikan@hotmail.com"><img href="mailto: ozanayrikan@hotmail.com" height="25" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Mail" title="Mail" /></a></code>
 </p>
   
 <br/>
@@ -35,3 +35,6 @@
     <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
     <code><img height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#" /></code>
 </div>
+  
+  
+  
